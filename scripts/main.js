@@ -4,7 +4,7 @@
     var CHECKLIST_SELECTOR = '[data-coffee-order="checklist"]';
     // var SERVER_URL = 'http://co.audstanley.com/coffeeorders';
     // var SERVER_URL = 'http://coffeerun-v2-rest-api.herokuapp.com/api/coffeeorders';
-    var FIREBASE_SERVER_URL = 'http://coffeerun-2eb3e.firebaseapp.com';
+    var FIREBASE_SERVER_URL = 'http://cofeerun-daec0.firebaseapp.com';
     
     var App = window.App;
     var Truck = App.Truck;
